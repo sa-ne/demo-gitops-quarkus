@@ -133,5 +133,5 @@ oc apply -f ./k8s/argocd-app-prod.yaml
 **For QA** 
 
 ```
-oc apply -f ./k8s/arogcd-app-qa.yaml
+oc apply -f ./k8s/argocd-app-qa.yaml
 ```
